@@ -1,6 +1,5 @@
-//
-// Created by leone on 2020/4/27.
-//
+// Author: Liheng Chen
+// Organization: ISCAS, China
 
 #ifndef AESMULTITHREAD_TOOLS_H
 #define AESMULTITHREAD_TOOLS_H

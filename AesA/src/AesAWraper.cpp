@@ -1,6 +1,6 @@
-//
-// Created by leone on 2020/4/23.
-//
+// Author: Liheng Chen
+// Organization: ISCAS, China
+
 #include <stdio.h>
 #include <iostream>
 #include <string>

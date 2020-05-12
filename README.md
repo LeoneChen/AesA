@@ -1,2 +1,2 @@
 # AesA
-AES Multi Thread Editor Using Arachne Thread Lib
+AES Multi Thread Edition Using Arachne Thread Lib

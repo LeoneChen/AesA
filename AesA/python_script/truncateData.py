@@ -1,3 +1,6 @@
+# Author: Liheng Chen
+# Organization: ISCAS, China
+
 import sys
 import shutil
 

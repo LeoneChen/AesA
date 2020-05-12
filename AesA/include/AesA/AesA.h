@@ -1,3 +1,6 @@
+// Author: Liheng Chen
+// Organization: ISCAS, China
+
 #ifndef _AES_H
 #define _AES_H
 

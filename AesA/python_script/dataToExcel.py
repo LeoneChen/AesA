@@ -1,3 +1,6 @@
+# Author: Liheng Chen
+# Organization: ISCAS, China
+
 # 内建模块
 import os
 import re

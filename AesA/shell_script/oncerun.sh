@@ -1,3 +1,6 @@
+# Author: Liheng Chen
+# Organization: ISCAS, China
+
 cd ../../arachne-all/Arachne ||exit
 make -j"$(nproc)" -s
 cd ../../AesA||exit

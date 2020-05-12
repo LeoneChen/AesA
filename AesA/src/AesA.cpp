@@ -1,4 +1,12 @@
 /*
+ *  The Aes algorithm was written by Christophe Devine, and I implement AesA
+ *  (Aes Multi Thread Edition backed by Arachne Thread Lib).
+ *
+ *  Author: Liheng Chen
+ *  Organization: ISCAS, China
+ *
+ *  Below is the information of Aes algorithm Author
+ *
  *  FIPS-197 compliant AesA implementation
  *
  *  Copyright (C) 2001-2004  Christophe Devine
@@ -17,6 +25,7 @@
  *  along with this program; if not, write to the Free Software
  *  Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
  */
+
 #include "AesA/AesA.h"
 #include "AesA/tools.h"
 #include "Arachne/Logger.h"

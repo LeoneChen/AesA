@@ -1,3 +1,6 @@
+# Author: Liheng Chen
+# Organization: ISCAS, China
+
 cd ../python_script || exit
 
 mkdir -p ../data

@@ -1,3 +1,6 @@
+# Author: Liheng Chen
+# Organization: ISCAS, China
+
 cd ../python_script || exit
 python3 getAvg.py ArachneEnable
 python3 getAvg.py PthreadSiblingCore

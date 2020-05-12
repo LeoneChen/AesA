@@ -1,6 +1,6 @@
-//
-// Created by leone on 2020/4/27.
-//
+// Author: Liheng Chen
+// Organization: ISCAS, China
+
 #include "AesA/tools.h"
 
 void showWorkDir() {
